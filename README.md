@@ -8,6 +8,7 @@ Bem-vindo ao meu perfil GitHub
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maikeandrew&show_icons=true&theme=tokyonight)
+
 ## 
 - Tecnologias que mais tenho familiaridade
 <div style="display: inline_block"><br>
