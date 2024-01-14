@@ -1,6 +1,6 @@
 ### Olá! Eu sou Maike Andrew
 Bem-vindo ao meu perfil GitHub  
-- Atualmente sou aluno da UFERSA e estou cursando BTI. 💻💥
+- Desenvolvedor entusiasta autodidata, apaixonado por programação e atualmente cursando Bacharelado em Tecnologia da Informação. 💻💥
 <br><br/>
 <a href="https://instagram.com/maikeandrew" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/maike-andrew-0a9573197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
