@@ -18,5 +18,5 @@ Bem-vindo ao meu perfil GitHub
 </div><br/>
 
 ##
-- Apaixonado por tecnologia!
+- 
 
