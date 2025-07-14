@@ -16,9 +16,7 @@ Bem-vindo ao meu perfil GitHub
 </div><br/>
 
 ## 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maikeandrew&show_icons=true&theme=tokyonight)
-
 ##
-- 
+
 
