@@ -9,12 +9,13 @@ Bem-vindo ao meu perfil GitHub
 
 - Tecnologias que mais tenho familiaridade
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Rafa-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" alt="Rafa-J" height="40" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Rafa-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Rafa-c" height="30" width="40" src="https://skillicons.dev/icons?i=c">
   <img align="center" alt="Rafa-git" height="30" width="40" src="https://skillicons.dev/icons?i=git">
   <img align="center" alt="Rafa-docker" height="30" width="40" src="https://skillicons.dev/icons?i=docker">
+  
 </div><br/>
 
 ## 
